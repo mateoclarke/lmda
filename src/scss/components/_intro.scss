@@ -1,9 +1,12 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  background-image:url(https://cranky-nobel-3c8f2e.netlify.app/static/a87bb82c3227ca9ae5885884afa13c6d/5dbbf/2020-08-01-austinfc-quartrer-final-drive-in-at-docs-drivein-040.jpg);
+  background-position: center;
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    background: rgba(0, 0, 0, 0.7);
 
     a {
       color: currentColor;
@@ -17,6 +20,7 @@
   &__heading {
     max-width: 40ex;
     color: var(--color-theme-feature-text);
+    background: rgba(0, 0, 0, 0.7);
 
     &--compact {
       max-width: 20ex;

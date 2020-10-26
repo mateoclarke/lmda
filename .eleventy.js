@@ -51,6 +51,12 @@ module.exports = function(config) {
       .reverse()
       .slice(0, site.maxPostsPerPage);
   });
+  
+  config.addCollection('songFeed', collection => {
+    return [...collection.getFilteredByGlob('./src/songs/*.md').filter(livePosts)]
+      .reverse()
+      .slice(0, site.maxPostsPerPage);
+  });
 
   // Plugins
   config.addPlugin(rssPlugin);

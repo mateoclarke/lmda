@@ -8,10 +8,10 @@
 
 {# Post list content #}
 {% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{% set songListItems = collections.songFeed %}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{% if songListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
@@ -19,7 +19,8 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
+    {# {% include "partials/components/post-list.njk" %} #}
+    {% include "partials/components/song-list.njk" %}
     {% include "partials/components/pagination.njk" %}
   </main>
 {% endblock %}

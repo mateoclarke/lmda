@@ -42,13 +42,13 @@ class ThemeToggle extends HTMLElement {
     switch (currentSetting) {
       case null:
         currentSetting =
-          this.getCSSCustomProp(this.COLOR_MODE_KEY) === 'dark' ? 'light' : 'dark';
+          this.getCSSCustomProp(this.COLOR_MODE_KEY) === 'dark' ? 'dark' : 'dark';
         break;
-      case 'light':
+      case 'dark':
         currentSetting = 'dark';
         break;
       case 'dark':
-        currentSetting = 'light';
+        currentSetting = 'dark';
         break;
     }
 
@@ -59,7 +59,7 @@ class ThemeToggle extends HTMLElement {
 
   setButtonLabelAndStatus(currentSetting) {
     this.modeToggleButton.innerText = `${
-      currentSetting === 'dark' ? 'Light' : 'Dark'
+      currentSetting === 'dark' ? 'Dark' : 'Dark'
     } theme`;
     this.modeStatusElement.innerText = `Color mode is now "${currentSetting}"`;
   }

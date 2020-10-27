@@ -45,13 +45,18 @@ module.exports = function(config) {
       ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
     ].reverse();
   });
+  config.addCollection('songs', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/songs/*.md').filter(livePosts)
+    ].reverse();
+  });
 
   config.addCollection('postFeed', collection => {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
   });
-  
+
   config.addCollection('songFeed', collection => {
     return [...collection.getFilteredByGlob('./src/songs/*.md').filter(livePosts)]
       .reverse()

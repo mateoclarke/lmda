@@ -1,0 +1,23 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}
+  {{ content | safe }}
+{% endset %}
+
+{# Post list content #}
+{% set postListHeading = postsHeading %}
+{% set songListItems = collections.songFeed %}
+
+{# Archive link #}
+{% if songListItems.length < collections.posts.length %} 
+  {% set paginationNextText = archiveButtonText %}
+  {% set paginationNextUrl = '/archive' %}
+{% endif %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/song-list.njk" %}  
+  </main>
+{% endblock %}

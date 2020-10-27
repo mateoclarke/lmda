@@ -3,4 +3,6 @@ title: 'Thank you'
 permalink: '/thank-you/index.html'
 ---
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Thanks for reaching out! We'll be in touch soon.
+
+Please go follow us on [Facebook](https://www.facebook.com/lamurgaatx/), [Twitter](https://www.twitter.com/lamurgaatx/), [Instagram](https://www.instagram.com/lamurgaatx/), and [Youtube](https://www.youtube.com/channel/UCTHI6I4SB9vTvd3UuCPlfMg?view_as=subscriber).

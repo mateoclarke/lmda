@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "Songs",
+      "url": "/songs",
       "external": false
     },
     {
-      "text": "Songs",
-      "url": "/songs",
+      "text": "About",
+      "url": "/about",
       "external": false
     },
     {

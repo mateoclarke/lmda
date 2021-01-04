@@ -4,7 +4,7 @@ permalink: '/songs/index.html'
 layout: 'layouts/songs.njk'
 ---
 
-## PDF Songsheets
+## Songsheets
 
 - [Austin FC Songsheet](/images/songsheet_mmxx.pdf)
 - [Texas Soccer Songsheet](/images/ut_soocer_songsheet.jpg)

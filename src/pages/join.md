@@ -19,5 +19,3 @@ For more information about how to join La Murga, performance requests, media inq
 - [Twitter](https://www.twitter.com/lamurgaatx/)
 - [Facebook](https://www.facebook.com/lamurgaatx/)
 - [Instagram](https://www.instagram.com/lamurgaatx/)
-
-Or you can send us a message via this form:

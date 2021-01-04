@@ -4,7 +4,12 @@ permalink: '/songs/index.html'
 layout: 'layouts/songs.njk'
 ---
 
-### Printable song sheet
+## PDF Songsheets
 
-![Songsheet page 1](/images/songsheet_page_1.jpg 'Songsheet page 1')
-![Songsheet page 2](/images/songsheet_page_2.jpg 'Songsheet page 2')
+- [Austin FC Songsheet](/images/songsheet_mmxx.pdf)
+- [Texas Soccer Songsheet](/images/ut_soocer_songsheet.jpg)
+
+<!-- ### [Texas Soccer Songhsheet]() -->
+<br>
+
+## Lyric Videos

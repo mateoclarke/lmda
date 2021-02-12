@@ -14,6 +14,9 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
+// Table of Contents
+const pluginTOC = require('eleventy-plugin-toc');
+
 module.exports = function(config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
@@ -66,6 +69,9 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+
+  // Table of Contents
+  config.addPlugin(pluginTOC);
 
   // 404
   config.setBrowserSyncConfig({

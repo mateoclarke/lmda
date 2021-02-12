@@ -21,3 +21,23 @@ At its core, a murga band is comprised of brass instruments — typically trumpe
 The bombo is the star of the murga and leads the rhythm section, functioning as the backbone of every song and chant. Even by itself, the mighty bombo can inspire a crowd to chant, sing, clap and cheer with it’s tremendous resonance.
 
 ![Pride Parade ATX 2019 Trish marches with bombo](/images/pride-2019-trish.jpeg 'Photo by Alex Rubio Photography')
+
+## 2020 Leadership Team
+
+- Drums
+  - Drum Captain - Kurt Lammers
+  - Low Drums Lead - Faris Ibrik
+  - Hi Drums Lead - Landon Cotham
+- Brass
+  - Brass Captain - Zol Waterhouse
+  - Low Brass Lead - Brittany Koepp
+  - Hi Brass Lead - Jay Mendoza
+- Capos
+  - Lead - Jay Torres
+  - Assistant - Anthony Cardinal
+- Operations
+  - Mateo Clarke
+  - Rigo Rodriguez Lira
+  - Gaby Navarro
+
+### Contact us via email: <a href="mailto:info@lamurgadeaustin.org">info@lamurgadeaustin.org</a>

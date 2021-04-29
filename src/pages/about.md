@@ -22,22 +22,26 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
 
 ![Pride Parade ATX 2019 Trish marches with bombo](/images/pride-2019-trish.jpeg 'Photo by Alex Rubio Photography')
 
-## 2020 Leadership Team
+## 2021 Leadership Team
 
 - Drums
   - Drum Captain - Kurt Lammers
-  - Low Drums Lead - Faris Ibrik
-  - Hi Drums Lead - Landon Cotham
+  - Lead Bombo - Faris Ibrik
+  - Lead Surdo - Jeshua Medrano
+  - Lead Snare - Colby James
+  - Lead Repique - Argel Gomez
 - Brass
   - Brass Captain - Zol Waterhouse
-  - Low Brass Lead - Brittany Koepp
-  - Hi Brass Lead - Jay Mendoza
+  - Trombone Lead - Brittany Koepp
+  - Trumpet Lead - Jay Mendoza
 - Capos
-  - Lead - Jay Torres
-  - Assistant - Anthony Cardinal
+  - Lead - Kirk Mangum
+  - Assistant Lead - Jay Torres
+  - Assistant Lead - Ray Castelo
 - Operations
-  - Mateo Clarke
-  - Rigo Rodriguez Lira
-  - Gaby Navarro
+  - Mateo Clarke - Events/Booking
+  - Rigo Rodriguez Lira - Membership/Inventory
+  - Marc Tost - Merch
+  - Elias Posada - Social Media/AV
 
 ### Contact us via email: <a href="mailto:info@lamurgadeaustin.org">info@lamurgadeaustin.org</a>

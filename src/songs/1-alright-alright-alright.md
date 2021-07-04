@@ -9,9 +9,7 @@ tags:
 ---
 
 
-Alright…
-
-Alright, Alright, Alright  
-
+Alright… <br>
+Alright, Alright, Alright <br>
 Austin! FC!
 

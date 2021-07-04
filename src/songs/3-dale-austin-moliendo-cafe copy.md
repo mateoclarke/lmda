@@ -8,10 +8,7 @@ tags:
   - songs
 ---
 
-Dale dale… Austin
-
-Dale dale... Oooh!
-
-Dale dale… Austin
-
-Dale dale, dale dale…. Ooo-ooo-oo-oo-ooh!
+Dale dale… Austin <br>
+Dale dale... Oooh! <br>
+Dale dale… Austin <br>
+Dale dale, dale dale…. Ooo-ooo-oo-oo-ooh! 

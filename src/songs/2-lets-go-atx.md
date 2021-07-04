@@ -8,10 +8,7 @@ tags:
   - songs
 ---
 
-Ooooh...
-
-Let’s go A-T-X
-
-A-T-X... A-T-X...
-
-Vamos A-T-X!
+Ooooh... <br>
+Let’s go A-T-X <br>
+A-T-X... A-T-X... <br>
+Vamos A-T-X! 

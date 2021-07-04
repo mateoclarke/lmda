@@ -8,14 +8,9 @@ tags:
   - songs
 ---
 
-Señores yo soy de Austin y tengo aguante
-
-Cantando por el verde en todas partes
-
-Verde es un sentimiento
-
-Plantado en mi corazón
-
-<br>
+Señores yo soy de Austin y tengo aguante<br>
+Cantando por el verde en todas partes<br>
+Verde es un sentimiento<br>
+Plantado en mi corazón<br>
 
 Verdi Negrooooo! X4

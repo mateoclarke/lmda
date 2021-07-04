@@ -7,24 +7,16 @@ tags:
   - songs
 ---
 
-With all my favorite colors
+With all my favorite colors, <br>
+I've got all my favorite colors,<br>
+My sisters and my brothers, <br>
+See 'em like no other<br>
+All my favorite colors.<br>
 
-I've got all my favorite colors
 
-My sisters and my brothers, See 'em like no other
-
-All my favorite colors
-
-<br>
-
-It's a good day to be,
-
-A good day for me,
-
-A good day to see my favorite colors
-
-My sisters and my brothers
-
-See 'em like no other
-
-All my favorite colors
+It's a good day to be,<br>
+A good day for me,<br>
+A good day to see my favorite colors.<br>
+My sisters and my brothers,<br>
+See 'em like no other<br>
+All my favorite colors.<br>

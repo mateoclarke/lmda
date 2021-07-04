@@ -8,12 +8,8 @@ tags:
   - songs
 ---
 
-True love will find you in the end
-
-You'll find out just who was your friend
-
-Don't be sad, I know you will
-
-But don't give up until
-
+True love will find you in the end <br>
+You'll find out just who was your friend <br>
+Don't be sad, I know you will <br>
+But don't give up until <br>
 True love will find you in the end

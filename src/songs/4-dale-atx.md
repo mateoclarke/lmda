@@ -8,7 +8,6 @@ tags:
   - songs
 ---
 
-Dale, dale, dale, A-T-X! x2
-
+Dale, dale, dale, A-T-X! x2 <br>
 Dale… A-T-X!
 

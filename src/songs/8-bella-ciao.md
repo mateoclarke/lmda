@@ -8,39 +8,21 @@ tags:
   - songs
 ---
 
-Somos de Austin
+Somos de Austin <br>
+de Austin Tejas. <br>
+Verdi black, Verdi black <br>
+Verdi black, black, black! <br>
+We’re with our friends now, here in our city, <br>
+We’re gonna keep it weird as hell! <br>
 
-de Austin Tejas.
+Oh-o-o-o-o, Oh-o-o-o-o, <br>
+Verdi black, Verdi black <br>
+Verdi black, black, black!<br>
+Oh-o-o-o-o, Oh-o-o-o-o,<br>
+Oh-o-o-o-o, Oh-o-o-o-o,<br>
 
-Verdi black, Verdi black
-
-Verdi black, black, black!
-
-We’re with our friends now, here in our city,
-
-We’re gonna keep it weird as hell!
-
-<br>
-
-
-Oh-o-o-o-o, Oh-o-o-o-o,
-
-Verdi black, Verdi black
-
-Verdi black, black, black!
-
-Oh-o-o-o-o, Oh-o-o-o-o,
-
-Oh-o-o-o-o, Oh-o-o-o-o,
-
-<br>
-
-Next time you see us, we may be smiling,
-
-Verdi black, Verdi black
-
-Verdi black, black, black!
-
-Here with our friends now down at McKalla
-
+Next time you see us, we may be smiling, <br>
+Verdi black, Verdi black <br>
+Verdi black, black, black! <br>
+Here with our friends now down at McKalla <br>
 Vamos Austin Futbol Club!

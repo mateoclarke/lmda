@@ -7,32 +7,22 @@ tags:
   - songs
 ---
 
-Somos los verdes
+Somos los verdes<br>
+From near and far away.<br>
+We came to sing for Austin<br>
+All the livelong day. <br>
+x2<br>
 
-From near and far away.
+We will sing when you are up.<br>
+Even louder when you’re down.<br>
+We will stand with you forever,<br>
+Underneath the violet crown.<br>
+We will sing for you to win.<br>
+We will jump for you to score.<br>
+Vamos vamos Austin FC....<br>
 
-We came to sing for Austin
 
-All the livelong day x2
-
-<br> 
-
-We will sing when you are up
-
-Even louder when you’re down
-
-We will stand with you forever
-
-Underneath the violet crown
-
-We will sing for you to win
-
-We will jump for you to score
-
-Vamos vamos Austin FC....
-
-<br> 
-<i>Drumroll...</i>
+<i>(Drumroll into a pause...)</i>
 <br> 
 
 Ohhh ohhh ohhh ohhh...

@@ -12,5 +12,7 @@ Señores yo soy de Austin y tengo aguante<br>
 Cantando por el verde en todas partes<br>
 Verde es un sentimiento<br>
 Plantado en mi corazón<br>
+Yo daría toda mi vida <br>
+por ser campeón
 
 Verdi Negrooooo! X4

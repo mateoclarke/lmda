@@ -11,10 +11,7 @@
 // Local dependencies
 @import 'typography';
 
-
 @import 'node_modules/@fortawesome/fontawesome-free/css/all.css';
-
-
 
 /**
  * GLOBAL STYLES
@@ -79,3 +76,13 @@ img {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
+
+// Hide translation
+.hidden {
+  display: none;
+}
+
+.translate {
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -6,9 +6,12 @@ layout: 'layouts/songs.njk'
 
 ## Songsheets
 
-Open a PDF of the songsheet.
+Click to view the songsheet.
 
-- [Austin FC Songsheet](/images/2021_AustinFC_Songs_Canticos.pdf)
+<a href="/images/2021_AustinFC_Songs_Canticos.pdf" style=" background: none;">
+    <img src="/images/2021_songsheet.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
+</a>
+
 - [Texas Soccer Songsheet](/images/ut_soocer_songsheet.jpg)
 
 <br>
@@ -17,6 +20,8 @@ Open a PDF of the songsheet.
 
 If you're at McKalla, share the song lyrics by having the people around you point their cameraphone at this QR code.
 
-[Open QR Code](/images/qr-code.png)
+<a href="/images/qr-code.png"  style=" background: none;">
+    <img src="/images/qr-code.png" alt="Open QR Code" style="max-width: 200px;"/>
+</a>
 
 ## Song Lyrics

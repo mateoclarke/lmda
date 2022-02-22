@@ -18,7 +18,7 @@
     "node-fetch": "^2.6.1",
     "sass": "^1.26.3",
     "semver": "^6.3.0",
-    "slugify": "^1.4.0",
+    "slugify": "^1.4.0"
   },
   "devDependencies": {
     "@erquhart/rollup-plugin-node-builtins": "^2.1.5",
